@@ -1,5 +1,5 @@
 # cops-and-robbers
-Working on cops and robbers problems with deep reinforcement learning
+Working on cops and robbers problem with deep reinforcement learning
 
 
 ## Demo
