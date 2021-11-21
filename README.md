@@ -2,6 +2,9 @@
 Working on cops and robbers problem with deep reinforcement learning
 
 
+## Installation
+The program code will be available soon !
+
 ## Demo
 
 A **demo** of the project is displayed below
